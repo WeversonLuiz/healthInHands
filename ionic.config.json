@@ -1,0 +1,7 @@
+{
+  "name": "HealthInHands",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
